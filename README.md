@@ -17,17 +17,17 @@ In code we trust 👨‍💻
 
 - [Cili Meals App](https://github.com/AndreyRaih/cili-meals-app) - camera-app for offering recipes based on captured products on photo. 
 
-Based on: ReactNative, Google Vision AI.
+Powered by: ReactNative, Google Vision AI.
 
 - [AumApp](https://github.com/AndreyRaih/aum-app-build) - yoga app for building personal yoga-feed, track progress and provide analytics to user. 
 
-Based on: Flutter, custom ML models (powered by Firebase ecosystem).
+Powered by: Flutter, custom ML models (Firebase ecosystem).
 
 *Inspired by awesome [Zenia](https://zenia.app/)*
 
 - [Boto](https://github.com/AndreyRaih/boto-app-frontend) - web app for creating and managing Telegram bots. 
 
-Based on: Vue3, Naive-ui.
+Powered by: Vue3, Naive-ui.
 
 Backend implementation is [here](https://github.com/AndreyRaih/boto-app)
 
