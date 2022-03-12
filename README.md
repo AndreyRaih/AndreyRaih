@@ -15,6 +15,8 @@ In code we trust 👨‍💻
 
 ### About recent pet-projects:
 
+**NOTE:** Please, keep in mind, that the projects are on WIP stage, so there are parts, which isn't completed or needs to refactoring.  
+
 - [Cili Meals App](https://github.com/AndreyRaih/cili-meals-app) - camera-app for offering recipes based on captured products on photo. 
 
 Powered by: ReactNative, Google Vision AI.
