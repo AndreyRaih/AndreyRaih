@@ -17,6 +17,10 @@ In code we trust 👨‍💻
 
 **NOTE:** Please, keep in mind, that the projects are on WIP stage, so there are parts, which isn't completed or needs to refactoring.  
 
+- [Simple Convert](https://github.com/AndreyRaih/simple-currency-converter-app) - plain currency converter app, implemented in scope of test task from [Simple](https://simple.life/) hiring process.
+
+Powered by: Vue3, Naive-ui, PWA.
+
 - [Cili Meals App](https://github.com/AndreyRaih/cili-meals-app) - camera-app for offering recipes based on captured products on photo. 
 
 Powered by: ReactNative, Google Vision AI.
