@@ -1,6 +1,5 @@
 
-![My project (1)](https://user-images.githubusercontent.com/54152289/158011179-1addc4c0-fd87-420c-8187-f6973913b490.png)
-## Hello there 👋
+## Hi there 👋
 
 Here is a place where I collect all my favourite pet-projects. All of them opensourced, so feel free to do anything with them.
 
