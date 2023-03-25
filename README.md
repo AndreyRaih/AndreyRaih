@@ -4,10 +4,10 @@ Welcome to my GitHub profile where I showcase my favorite pet-projects - all ope
 
 A little about me:
 
-🌐 I have around 5 years of experience in Frontend, with a focus on React.js/Vue.js
-📱 Experienced in mobile development with Cordova, ReactNative, and Flutter
-📖 I am constantly improving my skills and love sharing knowledge with others - I also have experience mentoring others
-⚙️ I'm a big fan of a reverse-engineering approach when studying Frontend solutions.
+- 🌐 I have around 5 years of experience in Frontend, with a focus on React.js/Vue.js
+- 📱 Experienced in mobile development with Cordova, ReactNative, and Flutter
+- 📖 I am constantly improving my skills and love sharing knowledge with others - I also have experience mentoring others
+- ⚙️ I'm a big fan of a reverse-engineering approach when studying Frontend solutions.
 
 Thanks for stopping by! 😃
 
