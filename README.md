@@ -1,40 +1,27 @@
 
-## Hi there 👋
+## Hey there! 👋
+Welcome to my GitHub profile where I showcase my favorite pet-projects - all open-sourced for you to explore and use!
 
-Here is a place where I collect all my favourite pet-projects. All of them opensourced, so feel free to do anything with them.
+A little about me:
 
-In code we trust 👨‍💻
+🌐 I have around 5 years of experience in Frontend, with a focus on React.js/Vue.js
+📱 Experienced in mobile development with Cordova, ReactNative, and Flutter
+📖 I am constantly improving my skills and love sharing knowledge with others - I also have experience mentoring others
+⚙️ I'm a big fan of a reverse-engineering approach when studying Frontend solutions.
 
-*Few words about me:*
+Thanks for stopping by! 😃
 
-- 🌐 About 5 years in Frontend, mostly in React.js/Vue.js
-- 📱 Expirienced in mobile development with Cordova, ReactNative and awesome Flutter 
-- 📖 Continuesly improve my own skills, also gald to sharing the knowledges with other - have some mentor experience
-- ⚙️ Big fan of reverse-engineering approach in Frontend solutions studying
+### About my recent pet-projects:
+Please keep in mind that these projects are still a work in progress, so some parts may not be completed or may require refactoring.
 
-### About recent pet-projects:
+🔍 [Simple Convert](https://github.com/AndreyRaih/simple-currency-converter-app): A plain currency converter app built as part of a test task for the [Simple](https://simple.life/) hiring process. Powered by: Vue3, Naive-ui, PWA.
 
-**NOTE:** Please, keep in mind, that the projects are on WIP stage, so there are parts, which isn't completed or needs to refactoring.  
+🍲 [Cili Meals App](https://github.com/AndreyRaih/cili-meals-app): A camera app that offers recipes based on captured products in a photo. Powered by: ReactNative, Google Vision AI.
 
-- [Simple Convert](https://github.com/AndreyRaih/simple-currency-converter-app) - plain currency converter app, implemented in scope of test task from [Simple](https://simple.life/) hiring process.
+🧘 [AumApp](https://github.com/AndreyRaih/aum-app-build): A yoga app for building personal yoga-feed, tracking progress, and providing analytics to users. Powered by: Flutter, custom ML models (Firebase ecosystem).
 
-Powered by: Vue3, Naive-ui, PWA.
+🤖 [Boto](https://github.com/AndreyRaih/boto-app-frontend): A web app for creating and managing Telegram bots. Powered by: Vue3, Naive-ui.
 
-- [Cili Meals App](https://github.com/AndreyRaih/cili-meals-app) - camera-app for offering recipes based on captured products on photo. 
-
-Powered by: ReactNative, Google Vision AI.
-
-- [AumApp](https://github.com/AndreyRaih/aum-app-build) - yoga app for building personal yoga-feed, track progress and provide analytics to user. 
-
-Powered by: Flutter, custom ML models (Firebase ecosystem).
-
-*Inspired by awesome [Zenia](https://zenia.app/)*
-
-- [Boto](https://github.com/AndreyRaih/boto-app-frontend) - web app for creating and managing Telegram bots. 
-
-Powered by: Vue3, Naive-ui.
-
-Backend implementation is [here](https://github.com/AndreyRaih/boto-app)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyraih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
